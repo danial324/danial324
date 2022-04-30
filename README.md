@@ -1,4 +1,15 @@
-Hi 👋 My name is Danial Tahir =============================  Software Engineer -----------------  Working on Web and Mobile Technologies  * 🚀  I'm currently working on [Android Developement](http://danial324/github.com) * 🧠  I'm learning C# , JS ES6 * 🤝  I'm open to collaborating on Web Development Projects * ⚡  Love to make new connections
+Hi 👋 My name is Danial Tahir
+============================= 
+
+Software Engineer 
+-----------------  
+
+Working on Web and Mobile Technologies   
+* 🚀  I'm currently working on [Android Developement]
+(http://danial324/github.com) 
+*  🧠  I'm learning C# , JS ES6 
+* 🤝  I'm open to collaborating on Web Development Projects 
+* ⚡  Love to make new connections
 
 ### Skills
 
